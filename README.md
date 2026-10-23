@@ -1,5 +1,5 @@
 # Life In The Ruins
-![Life In The Ruins](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/docs/screenshots/banner.png)
+![Life In The Ruins](https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins/blob/main/docs/screenshots/banner.png)
 Life in the Ruins transforms Fallout 4 into a deeper, more dangerous RPG without losing the soul of the original game. The Commonwealth is greener, harsher, and more alive. Resources are scarce, exploration is rewarding, and your character build matters.
 
 Still active since 2022.
@@ -48,7 +48,7 @@ Still active since 2022.
 - This modlist should be installed on an SSD for optimal performance (the Wabbajack download folder can be on an HDD though).
 - Recommmended at least 6gb of VRAM
 
-The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/docs/SteamDeck.md).
+The modlist is designed for relatively modern, middle range hardware. A high end graphics card is not required, but it does help. There are performance options available, including a [steam deck installation guide](https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins/blob/main/docs/SteamDeck.md).
 
 #### If you have less than 6gb of VRAM or the list otherwise performs badly for you
 
@@ -59,7 +59,7 @@ The modlist is designed for relatively modern, middle range hardware. A high end
 
 Make sure you update the C++ Redistributables https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-See [How to Wabbajack](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/docs/How%20To%20Wabbajack.md) for detailed instructions on using Wabbajack to install the modlist
+See [How to Wabbajack](https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins/blob/main/docs/How%20To%20Wabbajack.md) for detailed instructions on using Wabbajack to install the modlist
 
 See the [How To Install LitR video tutorial](https://discord.com/channels/885225427839369216/1236112171012718624/1236112171012718624)
 
@@ -143,7 +143,7 @@ Launch modorganizer.exe from the Life in the Ruins installation folder.
 
 ## Updating the Modlist
 
-Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/docs/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. The list uses Semantic versioning, so if only the last number updates, then an update is save-safe, otherwise instructions will be provided.
+Before updating the modlist, [see the full changelog](https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins/blob/main/docs/changelog.md) for the latest release. Make sure to follow any additional instructions in the changelog regarding the update process. The list uses Semantic versioning, so if only the last number updates, then an update is save-safe, otherwise instructions will be provided.
 
 To Update the modlist, just rerun the Wabbajack installer with the updated download from the Wabbajack gallery (or prerelease from my Patreon). Check "overwrite" during the installation process.
 

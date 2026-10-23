@@ -63,7 +63,7 @@ Wabbajack will not work with a pirated version of the game. If you own the game 
 
 If every file fails to download and you see a lot of oauth errors, then you either forgot to log in to Nexus Mods in Wabbajack, or the token has expired.  In this case.  Wait 10 minutes. Yes, 10 minutes.  If you don't wait, the timer will reset again.  Just do yourself a favor and wait the 10 minutes, then log out/in to Nexus Mods in Wabbajack and try again.
 
-If the Wabbajack Installation still fails, then join the Life in the Ruins Discord as noted in the [Readme](https://github.com/WhiskyTangoFawks/LunarFalloutPlus/blob/main/README.md).
+If the Wabbajack Installation still fails, then join the Life in the Ruins Discord as noted in the [Readme](https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins/blob/main/README.md).
 
 Post a Wabbajack log file in the *wabbjack-installation-help channel*.  You can find the log files in `C:\Wabbajack\<version>\logs`.  Drag the `wabbajack.current.log` file into the help channel.
 

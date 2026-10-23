@@ -2852,7 +2852,7 @@ startquest DiamonCityRadio
 
 This is a hotfix try and address the recuring infinite loading screen issue some users have been having. I believe the root cause was related to vsync settings and windowed mode for users, possibly interacting with GSync/FreeSync settings. It also includes a hotfix for Workshop Framework that was preventing some SS2 quests from progressing.
 
-This also includes a swap to using the standard system game INI files, instead of profile ones. It's caused confusion in the past, and makes it harder to optimise your settings and update the list, and may have contributed to the ILS issues. See the (readme)[https://github.com/WhiskyTangoFawks/LunarFalloutPlus#readme] for settings recommendations.
+This also includes a swap to using the standard system game INI files, instead of profile ones. It's caused confusion in the past, and makes it harder to optimise your settings and update the list, and may have contributed to the ILS issues. See the (readme)[https://github.com/WhiskyTangoFawks/FO4-LifeInTheRuins#readme] for settings recommendations.
 
 - Added
     * Bethini
